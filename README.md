@@ -9,9 +9,9 @@ Thus, We have come up with an idea to tackle your imbalanced emotions.
 
 #Steps of execution of the project
 
-1.Project runs on basic HTML and CSS codes.
-2.it is interlinked with many different webpages.
-
+1. The language used here is HTML and CSS
+2. The cards section of this application contains various moods that you might be feeling lately and based on that as you press on the particular button, you'll be given    personalized messages from our side.
+3. The pages are linked with each other so as to provide easy navigation.
 
 
 
